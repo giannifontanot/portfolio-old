@@ -52,7 +52,7 @@ background-color: #DDD;
     box-shadow: rgba(0, 0, 0, 0.45) 0px 4px 10px 0px;
     border-radius: 15px;
     border: 1px solid black;
-    width:200px;
+    width:100%;
 }
 
 nav {

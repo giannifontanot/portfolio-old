@@ -1,6 +1,7 @@
 body {
     background-color: #f4f5f6;
     letter-spacing: 0.75pt;
+    line-height: 1.6;
 
 }
 
@@ -107,8 +108,13 @@ nav a:link {
     padding: 5px 5px 5px 15px;
     margin: 10px -10px 10px -10px;
     border-radius: 3px;
+    line-height: normal;
 }
 
 .contact-container div{
-    font-size: 120%;
+    font-size: 110%;
+}
+
+.contact-container a:link{
+    text-decoration: none;
 }

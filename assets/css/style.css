@@ -59,6 +59,7 @@ nav {
     font-size: 120%;
     text-transform: uppercase;
     width:45vh;
+    white-space:nowrap;
 }
 
 .nav-container {

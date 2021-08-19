@@ -18,7 +18,7 @@ This is the very first portfolio I created to show what I know at that time.
 ## Installation
 Nothing is required, except the PureCSS library.
 ## Usage
-If you want to grab the code to make your own, yoy are very welcome! Just fork it from GitHub.
+If you want to get the code to create your own, you are welcome! Just fork it from GitHub.
 
 ![portfolio-old.gif](portfolio-old.gif)
 ## Credits

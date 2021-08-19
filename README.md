@@ -1,23 +1,53 @@
+
+![Status Stable](https://img.shields.io/badge/Status-Stable-blue)
+[![MIT License](https://img.shields.io/badge/License-MIT%20License-brightgreen)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 # Portfolio
-
-Portfolio is a webpage that contains my previous works. This is going to be very helpful when looking for a job.
-
+This is the very first portfolio I created to show what I know at that time.
+## Table of Contents
+- Portfolio
+	* [Installation](#installation)
+	* [Usage](#usage)
+	* [Credits](#credits)
+	* [Features](#features)
+	* [Contributions](#contributions)
+- [🔗 Links](#---links)
+	+ [GitHub Repository](#github-repository)
+	+ [Live Link](#live-link)
+	+ [Support](#support)
+	+ [Authors](#authors)
 ## Installation
-
-Does not have any installation, just to to https://giannifontanot.github.io/portfolio/ with your browser.
-
+Nothing is required, except the PureCSS library.
 ## Usage
+If you want to grab the code to make your own, yoy are very welcome! Just fork it from GitHub.
 
-Navigate to https://giannifontanot.github.io/portfolio/ and take a look at my info and previous work.
+![portfolio-old.gif](portfolio-old.gif)
+## Credits
+I used the PureCSS library 
+ - [https://purecss.io/](https://purecss.io/)
 
-## Contributing
-You can contribute by letting me know how can I help you in a website development.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-This work is provided with a MIT license in case you want to create your own portfolio using my template.
-
-## Hard code to put an eye on
-There are two importante variables
-js width
-css
+## Current Features
+````````````````````````
+- Simple interface
+- Easy to navigate
+- Very visible links
+- Everything fits in one page
+````````````````````````
+## Future Features
+````````````````````````
+- Upgrade color palette
+- Include my future developments
+````````````````````````
+## Contributions
+If you would like to contribute to this project , you are very welcome! You can fork it and later submit a pull request. 
+In case you need them, here are some guidelines: [Contributor Covenant](https://www.contributor-covenant.org/)
+# 🔗 Links
+### GitHub Repository
+[https://github.com/giannifontanot/portfolio-old/](https://github.com/giannifontanot/portfolio-old/)
+### Live Link
+[https://giannifontanot.github.io/portfolio-old](https://giannifontanot.github.io/portfolio-old)
+### Support
+If you need help with this project, please write to: [giannifontanot@gmail.com](https://mailto:giannifontanot@gmail.com)
+### Authors
+ - [@giannifontanot](https://www.github.com/giannifontanot)
+ - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://giannifontanot.github.io/portfolio/)
+ - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianni-fontanot/)

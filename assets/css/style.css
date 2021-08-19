@@ -1,5 +1,5 @@
 body {
-    background-color: #CCC;
+    background-color: #f4f5f6;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -29,8 +29,9 @@ main {
     margin-bottom: auto;
 }
 
-.profile-image-container {
-
+.work-container  {
+background-color: #DDD;
+    border-radius: 25px;
 }
 
 .profile-image {
@@ -38,11 +39,12 @@ main {
 
 }
 
-.img-thumbnail{
+.img-thumbnail {
     transform: rotate(0deg);
     box-shadow: rgba(0, 0, 0, 0.45) 0px 4px 10px 0px;
     border-radius: 15px;
     border: 1px solid black;
+    width:200px;
 }
 
 nav {
@@ -58,7 +60,7 @@ nav {
 
 nav a:link {
     text-decoration: none;
-    color: #8DD5F2
+    color: #eafc40
 }
 
 .profile-name {

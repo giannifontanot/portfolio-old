@@ -35,6 +35,14 @@ main {
 
 .profile-image {
     height: 15vh;
+
+}
+
+.img-thumbnail{
+    transform: rotate(0deg);
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 4px 10px 0px;
+    border-radius: 15px;
+    border: 1px solid black;
 }
 
 nav {

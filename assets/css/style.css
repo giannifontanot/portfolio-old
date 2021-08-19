@@ -1,5 +1,7 @@
 body {
     background-color: #f4f5f6;
+    letter-spacing: 0.75pt;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -32,6 +34,11 @@ main {
 .work-container  {
 background-color: #DDD;
     border-radius: 25px;
+    font-size: 120%;
+}
+
+.about-container, .mywork-container{
+    font-size: 120%;
 }
 
 .profile-image {
@@ -49,8 +56,8 @@ background-color: #DDD;
 
 nav {
     font-size: 120%;
-    font-family: 'sans-sarif', "Helvetica Neue", "Helvetica", serif;
     text-transform: uppercase;
+    width:45vh;
 }
 
 .nav-container {
@@ -94,4 +101,14 @@ nav a:link {
     }
 
 
+}
+
+.contact-container{
+    padding: 5px 5px 5px 15px;
+    margin: 10px -10px 10px -10px;
+    border-radius: 3px;
+}
+
+.contact-container div{
+    font-size: 120%;
 }

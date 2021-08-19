@@ -72,6 +72,11 @@ nav a:link {
     color: #eafc40
 }
 
+nav a:visited {
+    text-decoration: none;
+    color: #eafc40
+}
+
 .profile-name {
     letter-spacing: 1px;
 }

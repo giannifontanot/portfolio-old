@@ -119,3 +119,10 @@ nav a:link {
 .contact-container a:link{
     text-decoration: none;
 }
+
+.contact-container-left{
+    background-image: linear-gradient(to right, white, #f4f5f6)
+}
+.contact-container-right{
+    background-image: linear-gradient(to left, white, #f4f5f6)
+}

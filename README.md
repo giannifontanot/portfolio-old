@@ -2,7 +2,7 @@
 ![Status Stable](https://img.shields.io/badge/Status-Stable-blue)
 [![MIT License](https://img.shields.io/badge/License-MIT%20License-brightgreen)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 # Portfolio
-This is the very first portfolio I created to show what I know at that time.
+This is the very first portfolio I created to show what I know.
 ## Table of Contents
 - Portfolio
 	* [Installation](#installation)

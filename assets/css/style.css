@@ -1,53 +1,87 @@
-body{
+body {
     background-color: #CCC;
 }
 
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 
-main{
+main {
     width: 60%;
     text-align: left;
     margin-left: auto;
     margin-right: auto;
 }
 
-.main-content{
-
+.name-container {
+    margin-top: auto;
+    margin-bottom: auto;
 
 }
 
-.profile{
+.profile {
     background-color: #171B1D;
     color: white;
 }
 
-.vertical-center{
+.vertical-center {
     margin-top: auto;
     margin-bottom: auto;
 }
 
-.profile-image{
+.profile-image-container {
+
+}
+
+.profile-image {
     height: 15vh;
 }
 
-nav{
-    font-size: 200%;
-    font-family: 'sans-sarif', "Helvetica Neue", "Helvetica", serif
+nav {
+    font-size: 120%;
+    font-family: 'sans-sarif', "Helvetica Neue", "Helvetica", serif;
+    text-transform: uppercase;
 }
 
-nav a:link{
+.nav-container {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+nav a:link {
     text-decoration: none;
-    color:#8DD5F2
-
+    color: #8DD5F2
 }
 
-.profile-name{
+.profile-name {
     letter-spacing: 1px;
 }
 
-.profile-email{
+.profile-email {
     letter-spacing: 1px;
     color: #777;
+}
+
+
+@media screen and (max-width: 414px) {
+    .profile-image-right {
+        display: none;
+    }
+
+    .profile-image-center {
+        display: block;
+    }
+
+}
+
+@media screen and (min-width: 415px) {
+    .profile-image-right {
+        display: block;
+    }
+
+    .profile-image-center {
+        display: none;
+    }
+
+
 }
